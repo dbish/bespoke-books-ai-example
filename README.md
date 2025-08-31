@@ -3,9 +3,9 @@ creating coloring books using AI models :)
 
 for the managed/consumer version of this goal, go here -> https://bespokebooks.io
 
-### Quickstart (venv + pip)
+### Quickstart/Prep
 
-1) Create and activate a virtual environment (macOS/Linux):
+1) Create and activate a virtual environment:
 
 ```bash
 python3 -m venv .venv
