@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.DS_Store
+outputs/set1_photo_coloring.png
+outputs/set2_photo_coloring.png
+coloring_book.pdf
